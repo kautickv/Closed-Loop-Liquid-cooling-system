@@ -1,9 +1,10 @@
 # Closed-Loop-Liquid-cooling-system
-Design and implementation of a closed-loop liquid cooling system for high performance CPU using Arduino Uno. Also, include an android application to control the device remotely. 
+
+Design and implementation of a closed-loop liquid cooling system for high performance CPU using Arduino Uno.  
 
 
 
-Project Summary
+## Project Summary
 
 The capability of a computer to execute various complex functions simultaneously, causes its CPU and other microelectronic components to generate excess heat. 
 If this heat is not dissipated from the computer, it will drastically drop the performance of the computers. Therefore, it is required to cool an overheated CPU, back 
